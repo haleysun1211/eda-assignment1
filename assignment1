@@ -1,0 +1,52 @@
+---
+title: "Yufei Sun"
+output:
+  word_document: default
+  html_document:
+    toc: yes
+    df_print: paged
+  pdf_document: default
+  github_document:
+    toc: yes
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Education
+***
+*Vanderbilt University*   **Aug 2021 -**    
+
+* Major: Data Science `graduate program`
+
+*The Ohio State University*  **Aug 2017 - May 2020**
+
+* Major: Actuarial Science `undergraduate program`
+* Main Coursework: Calculus, Probability, Actuarial Financial Economics, Interest Theory, Life Insurance, Loss Model, Actuarial Practice
+* Awards: Straight A Student in Three Consecutive Years; Dean’s List
+
+### Internship Experience
+***
+
+* FESCO Adecco Zhejiang  **Aug 2020 - Sept 2020**
+* Smart Entry Systems LLC **Dec 2019 - Feb 2020**
+* China UnionPay Headquarter Procurement Office **July 2019 - Aug 2019**
+
+### Campus Experience
+***
+* Actuarial Club 
+* B-Box Club
+
+### Summary
+***
+
+
+>A responsible applicant who can work under high pressure and showcases great patience to prioritize and finish concurrent tasks effectively; 
+
+> A well-organized candidate who is equipped with good leadership and strong planning, execution, and management abilities; 
+
+> A self-motivated person who demonstrates outstanding communication, organization, and coordination skills and has excellent self-learning ability to learn new things.
+
+
